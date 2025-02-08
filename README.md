@@ -10,6 +10,12 @@
 <br>
  
 ## Documentação
+### Execução
+Execute na pasta raiz do projeto. <br>
+``` sh
+docker-compose up --build
+```
+<br>
 ### Rotas:
 
 ``` sh
